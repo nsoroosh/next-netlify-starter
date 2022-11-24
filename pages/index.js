@@ -11,7 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
+        
         <Header title="Welcome to my app!" />
+         <a href="https://delightful-trifle-24ea43.netlify.app/shop" >shop</a>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
